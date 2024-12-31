@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate **Fullstack Developer** with ex
 ## 🚀 Current Projects  
 - **FeedFresh.de**: A feature-rich RSS reader platform and app built with **React**, **Next.js**, **Flutter**, and **Dart**, offering seamless cross-platform compatibility.  
 - **Twister Node**: Developing a robust node provider to support decentralized networks, enhancing blockchain infrastructure.  
-- **Chainmonitor.com**: Creating a multi-chain explorer for EVM, Solana, and Bitcoin using **React** and **Next.js**.  
+- **Chainmonitor.net**: Creating a multi-chain explorer for EVM, Solana, and Bitcoin using **React** and **Next.js**.  
 
 ---
 
